@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    /* padding-top: 74px; */
+}
+
+body {
+    font-family: 'Sofia Pro', sans-serif;
+}
+
+.bg-pink {
+    background-color: var(--pinky);
+}
+
+.bg-white {
+    background-color: var(--white);
+}
