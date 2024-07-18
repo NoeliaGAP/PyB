@@ -16,7 +16,7 @@ header {
 }
 
 .icon {
-    height: 50px;
+    height: 3.125rem;
     width: auto;
     pointer-events: none;
     user-select: none;
@@ -194,7 +194,7 @@ header {
 }
 
 .img-accion{
-    height: 100px;
+    height: 6.25rem;
     border-radius: 50%;
 }
 
