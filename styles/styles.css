@@ -90,23 +90,6 @@ header {
     padding: 2rem 1rem;
 }
 
-.nosotros-title {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    flex-basis: 100%;
-    font-size: 2rem;
-    text-align: center;
-    color: var(--pinky-dark);
-    margin-bottom: 2rem;
-    gap: 1.5rem;
-}
-
-.nosotros-title div {
-    width: 5rem;
-    border-bottom: 3px solid var(--pinky-dark);
-}
-
 .nosotros-item {
     max-width: 400px;
     min-width: 200px;
@@ -142,23 +125,6 @@ header {
     column-gap: 5rem;
     row-gap: 3rem;
     padding: 2rem 1rem;
-}
-
-.acciones-title {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    flex-basis: 100%;
-    font-size: 2rem;
-    text-align: center;
-    color: var(--white);
-    margin-bottom: 2rem;
-    gap: 1.5rem;
-}
-
-.acciones-title div {
-    width: 5rem;
-    border-bottom: 3px solid var(--pinky-dark);
 }
 
 .accion-items {
@@ -222,23 +188,6 @@ header {
     column-gap: 5rem;
     row-gap: 3rem;
     padding: 2rem 1rem;
-}
-
-.metas-title {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    flex-basis: 100%;
-    font-size: 2rem;
-    text-align: center;
-    color: var(--pinky-dark);
-    margin-bottom: 2rem;
-    gap: 1.5rem;
-}
-
-.metas-title div {
-    width: 5rem;
-    border-bottom: 3px solid var(--pinky-dark);
 }
 
 .meta-items {
