@@ -101,29 +101,47 @@ header {
     padding: 2rem 1rem;
 }
 
-.nosotros-container div {
+.nosotros-title {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-basis: 100%;
+    font-size: 2rem;
+    text-align: center;
+    color: var(--pinky-dark);
+    margin-bottom: 2rem;
+    gap: 1.5rem;
+}
+
+.nosotros-title div {
+    width: 5rem;
+    border-bottom: 3px solid var(--pinky-dark);
+}
+
+.nosotros-item {
     max-width: 400px;
     min-width: 200px;
     text-align: center;
 }
 
-.nosotros-container img {
-    max-width: 80%;
-    margin-top: 2rem;
-}
-
-.nosotros-container h2 {
+.nosotros-item-title {
     font-weight: 500;
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
     color: var(--pinky);
 }
 
-.nosotros-container p {
+.nosotros-item-description {
     font-weight: 400;
     font-size: 0.875;
     margin-bottom: 0.5rem;
 }
+
+.nosotros-item-img {
+    max-width: 80%;
+    margin-top: 2rem;
+}
+
 /* #endregion */
 
 /* #region Accion */
