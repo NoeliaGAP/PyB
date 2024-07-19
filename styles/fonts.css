@@ -1,113 +1,112 @@
 /* #region SofiaPro */
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProBlackAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProBlackAz.otf") format("opentype");
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProBlackItalicAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProBlackItalicAz.otf") format("opentype");
     font-weight: 900;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProBoldAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProBoldAz.otf") format("opentype");
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProBoldItalicAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProBoldItalicAz.otf") format("opentype");
     font-weight: 700;
     font-style: italic;
 }
 
-
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProSemiBoldAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProSemiBoldAz.otf") format("opentype");
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProSemiBoldItalicAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProSemiBoldItalicAz.otf") format("opentype");
     font-weight: 600;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProMediumAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProMediumAz.otf") format("opentype");
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProMediumItalicAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProMediumItalicAz.otf") format("opentype");
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProRegularAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProRegularAz.otf") format("opentype");
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProRegularItalicAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProRegularItalicAz.otf") format("opentype");
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProLightAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProLightAz.otf") format("opentype");
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProLightItalicAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProLightItalicAz.otf") format("opentype");
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProExtraLightAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProExtraLightAz.otf") format("opentype");
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProExtraLightItalicAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProExtraLightItalicAz.otf") format("opentype");
     font-weight: 200;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProUltraLightAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProUltraLightAz.otf") format("opentype");
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Sofia Pro';
-    src: url('../fonts/SofiaPro/SofiaProUltraLightItalicAz.otf') format('opentype');
+    font-family: "Sofia Pro";
+    src: url("../fonts/SofiaPro/SofiaProUltraLightItalicAz.otf") format("opentype");
     font-weight: 100;
     font-style: italic;
 }
@@ -115,43 +114,43 @@
 
 /* #region Odin Rounded */
 @font-face {
-    font-family: 'Odin Rounded';
-    src: url('../fonts/OdinRounded/OdinRoundedBold.otf') format('opentype');
+    font-family: "Odin Rounded";
+    src: url("../fonts/OdinRounded/OdinRoundedBold.otf") format("opentype");
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Odin Rounded';
-    src: url('../fonts/OdinRounded/OdinRoundedBoldItalic.otf') format('opentype');
+    font-family: "Odin Rounded";
+    src: url("../fonts/OdinRounded/OdinRoundedBoldItalic.otf") format("opentype");
     font-weight: 700;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Odin Rounded';
-    src: url('../fonts/OdinRounded/OdinRoundedRegular.otf') format('opentype');
+    font-family: "Odin Rounded";
+    src: url("../fonts/OdinRounded/OdinRoundedRegular.otf") format("opentype");
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Odin Rounded';
-    src: url('../fonts/OdinRounded/OdinRoundedRegularItalic.otf') format('opentype');
+    font-family: "Odin Rounded";
+    src: url("../fonts/OdinRounded/OdinRoundedRegularItalic.otf") format("opentype");
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Odin Rounded';
-    src: url('../fonts/OdinRounded/OdinRoundedLight.otf') format('opentype');
+    font-family: "Odin Rounded";
+    src: url("../fonts/OdinRounded/OdinRoundedLight.otf") format("opentype");
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Odin Rounded';
-    src: url('../fonts/OdinRounded/OdinRoundedLightItalic.otf') format('opentype');
+    font-family: "Odin Rounded";
+    src: url("../fonts/OdinRounded/OdinRoundedLightItalic.otf") format("opentype");
     font-weight: 300;
     font-style: italic;
 }
