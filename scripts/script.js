@@ -1,6 +1,7 @@
 const yearSelector = document.getElementById("current-year");
 const menu = document.getElementById("menu");
 const toogleButton = document.getElementById("menu-icon");
+const menuOptions = document.querySelectorAll(".menu-option");
 
 const getcurrentYear = () => {
     const fechaActual = new Date();
@@ -24,5 +25,10 @@ yearSelector.innerText = getcurrentYear();
 
 toogleButton.addEventListener('click', toogleMenuButton)
 window.addEventListener('resize', setMenu);
+menuOptions.forEach(function (element) {
+    element.addEventListener("click", () => {
+        setMenu();
+    });
+});
 
 setMenu()
