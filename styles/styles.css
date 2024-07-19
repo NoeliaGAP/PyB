@@ -3,7 +3,6 @@ header {
     position: fixed;
     width: 100%;
     padding: 0.625rem 2rem;
-    background-color: var(--pinky);
     display: flex;
     justify-content: space-between;
 }
@@ -15,7 +14,7 @@ header {
 }
 
 .icon {
-    height: 3.125rem;
+    height: var(--icon-size);
     width: auto;
     pointer-events: none;
     user-select: none;
@@ -308,10 +307,6 @@ header {
 /* #endregion */
 
 @media only screen and (max-width: 912px) {
-    .title {
-        display: none;
-    }
-
     .accion-item {
         flex-direction: column;
         align-items: center;
@@ -322,6 +317,12 @@ header {
     }
 
     .img-accion-principal {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    .title {
         display: none;
     }
 }
