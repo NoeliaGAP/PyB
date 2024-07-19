@@ -152,7 +152,7 @@ header {
     transform: scale(1.1);
 }
 
-.img-accion {
+.accion-item-img {
     height: 6.25rem;
     border-radius: 50%;
 }
@@ -221,7 +221,7 @@ header {
     color: var(--pinky);
 }
 
-.img-meta {
+.meta-item-img {
     height: 6.25rem;
     border-radius: 50%;
 }
