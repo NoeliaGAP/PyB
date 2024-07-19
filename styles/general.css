@@ -20,6 +20,14 @@ body {
     min-height: inherit;
 }
 
+.container-sm {
+    max-width: 1220px;
+    margin: 0 auto;
+    padding: 30px 0;
+    height: inherit;
+    min-height: inherit;
+}
+
 .bg-pink {
     background-color: var(--pinky);
 }

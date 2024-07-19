@@ -306,6 +306,61 @@ header {
 
 /* #endregion */
 
+/* #region Footer */
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.footer-info {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2rem;
+}
+
+.footer-brand {
+    display: flex;
+    align-items: center;
+    gap: 2.2rem;
+}
+
+.socials {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    user-select: none;
+}
+
+.socials li {
+    list-style: none;
+}
+
+.social {
+    text-decoration: none;
+    color: #f5cfd0;
+    font-size: 0.875rem;
+}
+
+.social:hover {
+    opacity: 0.5;
+    transition: opacity 0.3s ease;
+}
+
+.social-img {
+    height: var(--icon-size);
+    border-radius: 50%;
+}
+
+.copy {
+    width: 100%;
+    text-align: center;
+    color: var(--white);
+}
+
+/* #endregion */
+
 @media only screen and (max-width: 912px) {
     .accion-item {
         flex-direction: column;
