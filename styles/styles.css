@@ -6,6 +6,7 @@ header {
     padding: 0.625rem 2rem;
     width: 100%;
     z-index: 1;
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.2);
 }
 
 .header-container {
@@ -64,7 +65,7 @@ header {
 }
 
 .closed {
-    height: 0;
+    max-height: 0 !important;
     overflow: hidden;
     padding: unset !important;
 }
@@ -76,8 +77,12 @@ header {
         width: 100%;
         position: absolute;
         left: 0;
-        top: 74px;
+        top: 4.625rem;
         padding: 1rem 0;
+        overflow: hidden;
+        max-height: 300px;
+        box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.2);
+        transition: max-height 0.5s ease, padding 0.5s linear;
     }
 
     #menu-icon {
