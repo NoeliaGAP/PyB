@@ -1,1 +1,95 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1561.3036 837"><defs><style>.cls-1{fill:#ddcca2;}.cls-2{fill:#6dfeff;}.cls-3{fill:#fff;}.cls-4,.cls-5,.cls-6{fill:none;}.cls-4{stroke:#fffefd;stroke-linecap:round;}.cls-4,.cls-5{stroke-miterlimit:10;stroke-width:2px;}.cls-5{stroke:#6dfeff;}</style></defs><title>stars_hero</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M641.9755,82.5372A13.3774,13.3774,0,0,0,635.5127,89a.8083.8083,0,0,1-1.4753,0,13.3774,13.3774,0,0,0-6.4628-6.4628.8083.8083,0,0,1,0-1.4753,13.3774,13.3774,0,0,0,6.4628-6.4628.8083.8083,0,0,1,1.4753,0,13.3774,13.3774,0,0,0,6.4628,6.4628A.8083.8083,0,0,1,641.9755,82.5372Z"/><rect class="cls-2" x="1356.2571" y="515.6257" width="7.6709" height="7.6709" transform="translate(31.0474 1113.8774) rotate(-45)"/><rect class="cls-2" x="728.2531" y="159.3405" width="7.6709" height="7.6709" transform="translate(99.041 565.4579) rotate(-45)"/><rect class="cls-1" x="950.7247" y="31.212" width="4.2426" height="4.2426" transform="translate(255.5119 683.527) rotate(-45)"/><rect class="cls-3" x="1193.3914" y="226.4632" width="4.2426" height="4.2426" transform="translate(188.5239 912.306) rotate(-45)"/><rect class="cls-1" x="1556.4752" y="176.8024" width="4" height="4" transform="translate(330.0344 1154.3784) rotate(-45)"/><rect class="cls-1" x="774.3411" y="687" width="4" height="4" transform="translate(-259.8115 750.7595) rotate(-45)"/><rect class="cls-1" x="1108.1049" y="694.5304" width="6" height="6" transform="translate(-167.7934 989.9717) rotate(-45)"/><line class="cls-4" x1="1241.8455" y1="123.8095" x2="1241.8455" y2="133.8095"/><line class="cls-4" x1="1246.8455" y1="128.8095" x2="1236.8455" y2="128.8095"/><line class="cls-4" x1="1084.5127" y1="203" x2="1084.5127" y2="209"/><line class="cls-4" x1="1087.5127" y1="206" x2="1081.5127" y2="206"/><line class="cls-4" x1="861.5127" y1="793" x2="861.5127" y2="799"/><line class="cls-4" x1="864.5127" y1="796" x2="858.5127" y2="796"/><line class="cls-4" x1="1472.5127" y1="574.4876" x2="1472.5127" y2="584.4876"/><line class="cls-4" x1="1477.5127" y1="579.4876" x2="1467.5127" y2="579.4876"/><line class="cls-4" x1="1520.5624" y1="201.3698" x2="1520.5624" y2="207.3698"/><line class="cls-4" x1="1523.5624" y1="204.3698" x2="1517.5624" y2="204.3698"/><line class="cls-4" x1="1433.5127" y1="1" x2="1433.5127" y2="7"/><line class="cls-4" x1="1436.5127" y1="4" x2="1430.5127" y2="4"/><circle class="cls-5" cx="1033.1088" cy="644.5304" r="3"/><circle class="cls-4" cx="1477.5127" cy="833" r="3"/><path class="cls-6" d="M1062.0012,151.6785"/><rect class="cls-2" x="86.7404" y="98.5164" width="7.6709" height="7.6709" transform="translate(-45.8447 94.025) rotate(-45)"/><rect class="cls-1" x="194.8736" y="60.2305" width="4.2426" height="4.2426" transform="translate(13.609 157.5589) rotate(-45)"/><rect class="cls-1" x="662.237" y="143.7607" width="4" height="4" transform="translate(91.4821 512.3788) rotate(-45)"/><line class="cls-4" x1="171.0728" y1="136.2467" x2="171.0728" y2="146.2467"/><line class="cls-4" x1="176.0728" y1="141.2467" x2="166.0728" y2="141.2467"/><line class="cls-4" x1="365.042" y1="731.5186" x2="365.042" y2="736.5186"/><line class="cls-4" x1="367.542" y1="734.0186" x2="362.542" y2="734.0186"/><circle class="cls-5" cx="61" cy="451.1269" r="3"/><circle class="cls-4" cx="3" cy="694.0186" r="2"/><path class="cls-6" d="M91.0958,672.6019"/><rect class="cls-2" x="580.8305" y="405.3258" width="7.6709" height="7.6709" transform="translate(-118.076 533.2618) rotate(-45)"/><rect class="cls-1" x="237.8233" y="431.9172" width="6" height="6" transform="translate(-236.9974 297.6721) rotate(-45)"/><line class="cls-4" x1="548.0432" y1="565.9068" x2="548.0432" y2="575.9068"/><line class="cls-4" x1="553.0432" y1="570.9068" x2="543.0432" y2="570.9068"/><line class="cls-4" x1="562.0497" y1="180.3883" x2="562.0497" y2="186.3883"/><line class="cls-4" x1="565.0497" y1="183.3883" x2="559.0497" y2="183.3883"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1561.3036 837">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #ddcca2;
+            }
+
+            .cls-2 {
+                fill: #FFFC78;
+            }
+
+            .cls-3 {
+                fill: #fff;
+            }
+
+            .cls-4,
+            .cls-5,
+            .cls-6 {
+                fill: none;
+            }
+
+            .cls-4 {
+                stroke: #fffefd;
+                stroke-linecap: round;
+            }
+
+            .cls-4,
+            .cls-5 {
+                stroke-miterlimit: 10;
+                stroke-width: 2px;
+            }
+
+            .cls-5 {
+                stroke: #FFFC78;
+            }
+        </style>
+    </defs>
+    <title>stars</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <path class="cls-1"
+                d="M641.9755,82.5372A13.3774,13.3774,0,0,0,635.5127,89a.8083.8083,0,0,1-1.4753,0,13.3774,13.3774,0,0,0-6.4628-6.4628.8083.8083,0,0,1,0-1.4753,13.3774,13.3774,0,0,0,6.4628-6.4628.8083.8083,0,0,1,1.4753,0,13.3774,13.3774,0,0,0,6.4628,6.4628A.8083.8083,0,0,1,641.9755,82.5372Z" />
+            <rect class="cls-2" x="1356.2571" y="515.6257" width="7.6709" height="7.6709"
+                transform="translate(31.0474 1113.8774) rotate(-45)" />
+            <rect class="cls-2" x="728.2531" y="159.3405" width="7.6709" height="7.6709"
+                transform="translate(99.041 565.4579) rotate(-45)" />
+            <rect class="cls-1" x="950.7247" y="31.212" width="4.2426" height="4.2426"
+                transform="translate(255.5119 683.527) rotate(-45)" />
+            <rect class="cls-3" x="1193.3914" y="226.4632" width="4.2426" height="4.2426"
+                transform="translate(188.5239 912.306) rotate(-45)" />
+            <rect class="cls-1" x="1556.4752" y="176.8024" width="4" height="4"
+                transform="translate(330.0344 1154.3784) rotate(-45)" />
+            <rect class="cls-1" x="774.3411" y="687" width="4" height="4"
+                transform="translate(-259.8115 750.7595) rotate(-45)" />
+            <rect class="cls-1" x="1108.1049" y="694.5304" width="6" height="6"
+                transform="translate(-167.7934 989.9717) rotate(-45)" />
+            <line class="cls-4" x1="1241.8455" y1="123.8095" x2="1241.8455" y2="133.8095" />
+            <line class="cls-4" x1="1246.8455" y1="128.8095" x2="1236.8455" y2="128.8095" />
+            <line class="cls-4" x1="1084.5127" y1="203" x2="1084.5127" y2="209" />
+            <line class="cls-4" x1="1087.5127" y1="206" x2="1081.5127" y2="206" />
+            <line class="cls-4" x1="861.5127" y1="793" x2="861.5127" y2="799" />
+            <line class="cls-4" x1="864.5127" y1="796" x2="858.5127" y2="796" />
+            <line class="cls-4" x1="1472.5127" y1="574.4876" x2="1472.5127" y2="584.4876" />
+            <line class="cls-4" x1="1477.5127" y1="579.4876" x2="1467.5127" y2="579.4876" />
+            <line class="cls-4" x1="1520.5624" y1="201.3698" x2="1520.5624" y2="207.3698" />
+            <line class="cls-4" x1="1523.5624" y1="204.3698" x2="1517.5624" y2="204.3698" />
+            <line class="cls-4" x1="1433.5127" y1="1" x2="1433.5127" y2="7" />
+            <line class="cls-4" x1="1436.5127" y1="4" x2="1430.5127" y2="4" />
+            <circle class="cls-5" cx="1033.1088" cy="644.5304" r="3" />
+            <circle class="cls-4" cx="1477.5127" cy="833" r="3" />
+            <path class="cls-6" d="M1062.0012,151.6785" />
+            <rect class="cls-2" x="86.7404" y="98.5164" width="7.6709" height="7.6709"
+                transform="translate(-45.8447 94.025) rotate(-45)" />
+            <rect class="cls-1" x="194.8736" y="60.2305" width="4.2426" height="4.2426"
+                transform="translate(13.609 157.5589) rotate(-45)" />
+            <rect class="cls-1" x="662.237" y="143.7607" width="4" height="4"
+                transform="translate(91.4821 512.3788) rotate(-45)" />
+            <line class="cls-4" x1="171.0728" y1="136.2467" x2="171.0728" y2="146.2467" />
+            <line class="cls-4" x1="176.0728" y1="141.2467" x2="166.0728" y2="141.2467" />
+            <line class="cls-4" x1="365.042" y1="731.5186" x2="365.042" y2="736.5186" />
+            <line class="cls-4" x1="367.542" y1="734.0186" x2="362.542" y2="734.0186" />
+            <circle class="cls-5" cx="61" cy="451.1269" r="3" />
+            <circle class="cls-4" cx="3" cy="694.0186" r="2" />
+            <path class="cls-6" d="M91.0958,672.6019" />
+            <rect class="cls-2" x="580.8305" y="405.3258" width="7.6709" height="7.6709"
+                transform="translate(-118.076 533.2618) rotate(-45)" />
+            <rect class="cls-1" x="237.8233" y="431.9172" width="6" height="6"
+                transform="translate(-236.9974 297.6721) rotate(-45)" />
+            <line class="cls-4" x1="548.0432" y1="565.9068" x2="548.0432" y2="575.9068" />
+            <line class="cls-4" x1="553.0432" y1="570.9068" x2="543.0432" y2="570.9068" />
+            <line class="cls-4" x1="562.0497" y1="180.3883" x2="562.0497" y2="186.3883" />
+            <line class="cls-4" x1="565.0497" y1="183.3883" x2="559.0497" y2="183.3883" />
+        </g>
+    </g>
+</svg>
