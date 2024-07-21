@@ -162,6 +162,7 @@ header {
     font-weight: 400;
     font-size: 0.875;
     margin-bottom: 0.5rem;
+    text-align: justify;
 }
 
 .nosotros-item-img {
@@ -226,6 +227,7 @@ header {
 .accion-item-info-description {
     font-weight: 200;
     font-size: 0.875rem;
+    text-align: justify;
 }
 
 .img-accion-principal {
@@ -375,6 +377,7 @@ header {
     font-style: italic;
     margin: 1.25rem 0;
     font-weight: 200;
+    text-align: justify;
 }
 
 /* #endregion */
