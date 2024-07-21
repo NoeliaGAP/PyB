@@ -10,7 +10,7 @@ const getcurrentYear = () => {
 
 const setMenu = () => {
     let width = window.innerWidth;
-    if (width < 780) {
+    if (width <= 768) {
         menu.classList.add('closed');
     } else {
         menu.classList.remove('closed');
