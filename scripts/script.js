@@ -31,4 +31,4 @@ menuOptions.forEach(function (element) {
     });
 });
 
-setMenu()
+setMenu();

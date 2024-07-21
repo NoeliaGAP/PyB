@@ -75,7 +75,7 @@ body {
 
 .section-title-separator {
     width: 5rem;
-    border-bottom: 3px solid var(--pinky-dark);
+    border-bottom: 3px solid var(--pinky-super-dark);
 }
 
 .hover-opacity:hover {
