@@ -1,6 +1,9 @@
 :root {
+    --pinky-ligth: #ffb0a9;
     --pinky: #ff797d;
     --pinky-dark: #ff585d;
+    --pinky-super-dark: #d9534f;
+    --pinky-ultra-dark: #c9302c;
     --white: #f5f6f9;
 
     --icon-size: 3.125rem;
