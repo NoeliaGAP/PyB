@@ -61,6 +61,10 @@ body {
     color: var(--pinky-dark);
 }
 
+.text-right {
+    text-align: right;
+}
+
 .section-title {
     display: flex;
     align-items: center;

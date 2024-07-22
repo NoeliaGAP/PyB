@@ -320,6 +320,10 @@ header {
     .meta-item {
         margin: unset !important;
     }
+    
+    .meta-item-info-title {
+        text-align: left !important;
+    }
 }
 
 /* #endregion */
