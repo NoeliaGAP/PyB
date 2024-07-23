@@ -208,6 +208,14 @@ header {
     transform: scale(1.1);
 }
 
+.accion-item:hover img.primary-img {
+    display: none !important;
+}
+
+.accion-item:hover img.secondary-img {
+    display: block !important;
+}
+
 .accion-item-img {
     height: 6.25rem;
     border-radius: 50%;

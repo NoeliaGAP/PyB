@@ -65,6 +65,14 @@ body {
     text-align: right;
 }
 
+.primary-img {
+    display: block;
+}
+
+.secondary-img {
+    display: none;
+}
+
 .section-title {
     display: flex;
     align-items: center;
