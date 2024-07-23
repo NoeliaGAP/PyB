@@ -49,6 +49,12 @@ body {
     background-position: center;
 }
 
+.bg-paws {
+    background-image: url(../images/background/pawsRLB.png);
+    background-repeat: repeat;
+    background-position: center;
+}
+
 .text-white {
     color: var(--white);
 }
