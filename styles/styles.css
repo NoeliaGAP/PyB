@@ -422,14 +422,22 @@ header {
 .form-group textarea {
     width: 100%;
     padding: 0.625rem;
-    border: 1px solid #cccccc;
+    border: 1px solid var(--white);
     border-radius: 0.375rem;
     outline: none;
+    font-family: SofiaPro, sans-serif;
+}
+
+.form-group textarea {
+    resize: vertical;
+    min-height: 10rem;
+    max-height: 30rem;
+    field-sizing: content;
 }
 
 .form-group input:focus,
 .form-group textarea:focus {
-    border: 1px solid var(--white);
+    border: 1px solid var(--pinky-super-dark);
 }
 
 .submit-button {
