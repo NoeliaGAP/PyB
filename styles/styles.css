@@ -497,4 +497,9 @@ header {
     color: var(--white);
 }
 
+.copy img {
+    height: 1.5rem;
+    vertical-align: sub;
+}
+
 /* #endregion */
