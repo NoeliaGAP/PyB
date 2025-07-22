@@ -1,0 +1,64 @@
+.casos-container .swiper {
+  width: 100%;
+  height: auto;
+  padding: 20px 0 50px 0;
+  z-index: 0;
+}
+
+.casos-container .swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  height: auto;
+}
+
+.casos-container .swiper-slide .caso-item {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Botones de Navegación */
+.casos-container .swiper-button-next,
+.casos-container .swiper-button-prev {
+  color: var(--white);
+  background-color: var(--pinky-ultra-dark);
+  border-radius: 100%;
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.2);
+  width: 40px;
+  height: 40px;
+}
+
+.casos-container .swiper-button-next::after,
+.casos-container .swiper-button-prev::after {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Botones de Paginación */
+.casos-container .swiper-pagination-bullet {
+  background-color: rgba(255, 255, 255, 0.5);
+  opacity: 1;
+}
+
+.casos-container .swiper-pagination-bullet-active {
+  background-color: var(--white);
+}
+
+@media (max-width: 640px) {
+  .casos-container .swiper-slide .caso-item {
+    height: 240px;
+  }
+
+  /* Botones de Navegación */
+  .casos-container .swiper-button-next,
+  .casos-container .swiper-button-prev {
+    width: 32px;
+    height: 32px;
+  }
+
+  .casos-container .swiper-button-next::after,
+  .casos-container .swiper-button-prev::after {
+    font-size: 14px;
+  }
+}
