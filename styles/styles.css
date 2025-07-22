@@ -343,7 +343,7 @@ header {
     align-items: center;
     flex-wrap: wrap;
     column-gap: 5rem;
-    row-gap: 3rem;
+    row-gap: 1.75rem;
     padding: 2rem 1rem;
 }
 
@@ -369,6 +369,7 @@ header {
     height: 5rem;
     margin-top: -2.5rem;
     border: 0.25rem solid var(--white);
+    object-fit: cover;
 }
 
 .caso-item-name {
