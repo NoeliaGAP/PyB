@@ -32,3 +32,20 @@ menuOptions.forEach(function (element) {
 });
 
 setMenu();
+
+// Funcionalidad para cambiar imagen al hacer hover en .accion-item
+const accionItems = document.querySelectorAll(".accion-item");
+const accionImg = document.getElementById("accion-img");
+
+accionItems.forEach(item => {
+    const originalSrc = accionImg.src;
+
+    item.addEventListener("mouseover", () => {
+        const newImg = item.getAttribute("data-img");
+        accionImg.src = newImg;
+    });
+
+    // item.addEventListener("mouseout", () => {
+    //     accionImg.src = originalSrc;
+    // });
+});
