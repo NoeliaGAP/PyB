@@ -1,4 +1,5 @@
 const form = document.getElementById("contact-form");
+const toast = document.getElementById("toast");
 
 form.addEventListener("submit", function (e) {
   e.preventDefault();
@@ -13,11 +14,23 @@ form.addEventListener("submit", function (e) {
   })
     .then((response) => response.text())
     .then((result) => {
-      // console.log("Success:", result);
+      showToast();
       form.reset();
     })
     .catch((error) => {
-      // console.log("Error: ", error);
-      alert("Hubo un problema al enviar el formulario.");
+      alert(`Error al enviar el formulario: ${error}`);
     });
 });
+
+const showToast = () => {
+  toast.classList.add("show");
+
+  setTimeout(() => {
+    toast.classList.add("hide");
+
+    // Limpiar después de la animación
+    setTimeout(() => {
+      toast.classList.remove("show", "hide");
+    }, 500);
+  }, 1500);
+};
